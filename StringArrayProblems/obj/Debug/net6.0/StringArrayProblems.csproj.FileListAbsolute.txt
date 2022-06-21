@@ -1,0 +1,15 @@
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\bin\Debug\net6.0\StringArrayProblems.exe
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\bin\Debug\net6.0\StringArrayProblems.deps.json
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\bin\Debug\net6.0\StringArrayProblems.runtimeconfig.json
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\bin\Debug\net6.0\StringArrayProblems.dll
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\bin\Debug\net6.0\StringArrayProblems.pdb
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\obj\Debug\net6.0\StringArrayProblems.csproj.AssemblyReference.cache
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\obj\Debug\net6.0\StringArrayProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\obj\Debug\net6.0\StringArrayProblems.AssemblyInfoInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\obj\Debug\net6.0\StringArrayProblems.AssemblyInfo.cs
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\obj\Debug\net6.0\StringArrayProblems.csproj.CoreCompileInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\obj\Debug\net6.0\StringArrayProblems.dll
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\obj\Debug\net6.0\refint\StringArrayProblems.dll
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\obj\Debug\net6.0\StringArrayProblems.pdb
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\obj\Debug\net6.0\StringArrayProblems.genruntimeconfig.cache
+C:\Users\kirstinmegga.ramos\source\repos\StringArrayProblems\StringArrayProblems\obj\Debug\net6.0\ref\StringArrayProblems.dll
