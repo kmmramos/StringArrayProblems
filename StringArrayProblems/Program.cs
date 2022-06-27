@@ -13,6 +13,9 @@ namespace StringArrayProblems
                 Console.WriteLine("Actions");
                 Console.WriteLine("Select only from 1 to 5.");
                 Console.WriteLine("[1] Backspace String Problem");
+                Console.WriteLine("[2] Longest Substring Problem");
+                Console.WriteLine("[3] Palindrom Problem");
+                Console.WriteLine("[4] Almost Palindrom Problem");
                 //Console.WriteLine("[4] Exit");
                 Console.WriteLine("Enter action:");
                 input = Console.ReadLine();
@@ -27,22 +30,25 @@ namespace StringArrayProblems
             try
             {
                 int choice = SelectAction();
-                bool isExit = false;
                 switch (choice)
                 {
                     case 1:
                         Display.Problem1();
                         break;
                     case 2:
+                        Display.Problem2();
                         break;
                     case 3:
+                        Display.Problem3();
                         break;
                     case 4:
+                        Display.Problem4();
                         break;
                     case 5:
                         break;
                     case 6:
-                        isExit = true;
+                        break;
+                    default:
                         break;
                 }
             }
@@ -50,10 +56,7 @@ namespace StringArrayProblems
             {
                 Console.WriteLine(ex.ToString());
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.ToString());
-            }
+            Console.ReadLine();
         }
     }
 }
