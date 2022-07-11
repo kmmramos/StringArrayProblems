@@ -1,3 +1,5 @@
+# StringArrayProblems
+
 This is to provide brute force solutions and optimal solutions for the following string array problems.
 
 Problem One:
