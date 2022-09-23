@@ -14,3 +14,9 @@ Given a string, determine if it is a palindrome.
 Problem Four:
 Given a string, determine if it is almost a palindrome. A string is almost a palindrome if it becomes a palindrome by removing 1 letter. Consider only alphanumeric characters and ignore case sensitivity.
 
+Problem Five:
+Stack token exchange problem where 2 tokens can be exchanged into 1 token. You must find the remaining number of tokens after any number of exchange operations.
+
+Problem Six: 
+Find the smallest integer greater than the given number that does not have two consecutive identical digits.
+
