@@ -102,5 +102,29 @@ namespace StringArrayProblems.Common
             }
             Console.Write("The string is" + (ProblemFour.IsAlmostPalindrome(S) ? " an " : " not an ") + "almost Palindrome.");
         }
+
+        public static void Problem5()
+        {
+            Console.Write("Please enter the size of your array: ");
+            int size = Convert.ToInt32(Console.ReadLine());
+            int[] nums = new int[size];
+            for (int i = 0; i < nums.Length; i++)
+            {
+                Console.Write("Please enter your number: ");
+                nums[i] = Convert.ToInt32(Console.ReadLine());
+            }
+
+            int answer = ProblemFive.CoinStackExchange(nums);
+            Console.WriteLine("Answer is: {0}", answer.ToString());
+        }
+
+        public static void Problem6()
+        {
+            Console.Write("Please enter your number: ");
+            int n = Convert.ToInt32(Console.ReadLine());
+
+            int answer = ProblemSix.NextGreater(n);
+            Console.WriteLine("Answer is: {0}", answer.ToString());
+        }
     }
 }

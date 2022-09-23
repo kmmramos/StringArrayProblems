@@ -16,7 +16,8 @@ namespace StringArrayProblems
                 Console.WriteLine("[2] Longest Substring Problem");
                 Console.WriteLine("[3] Palindrom Problem");
                 Console.WriteLine("[4] Almost Palindrom Problem");
-                //Console.WriteLine("[4] Exit");
+                Console.WriteLine("[5] Stack Coin Exchange");
+                Console.WriteLine("[6] Smallest integer with no consecutive same digits");
                 Console.WriteLine("Enter action:");
                 input = Console.ReadLine();
                 choice = Validator.IsInteger(ref input, choice);
@@ -45,8 +46,12 @@ namespace StringArrayProblems
                         Display.Problem4();
                         break;
                     case 5:
+                        Display.Problem5();
                         break;
                     case 6:
+                        Display.Problem6();
+                        break;
+                    case 7:
                         break;
                     default:
                         break;
